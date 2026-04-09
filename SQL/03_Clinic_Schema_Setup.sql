@@ -51,8 +51,8 @@ INSERT INTO clinics VALUES
 ('cnc-001', 'HealthFirst Clinic',  'Mumbai',    'Maharashtra', 'India'),
 ('cnc-002', 'CarePoint Clinic',    'Pune',      'Maharashtra', 'India'),
 ('cnc-003', 'WellBeing Center',    'Bangalore', 'Karnataka',   'India'),
-('cnc-004', 'MediCare Clinic',     'Hyderabad', 'Telangana',   'India'),
-('cnc-005', 'LifeCare Hospital',   'Chennai',   'Tamil Nadu',  'India');
+('cnc-004', 'MediCare Clinic',     'Mysore', 'Karnataka',   'India'),
+('cnc-005', 'LifeCare Hospital',   'Manglore',   'Karnataka',  'India');
 
 INSERT INTO customer VALUES
 ('cust-001', 'Jon Doe',      '9700000001'),
